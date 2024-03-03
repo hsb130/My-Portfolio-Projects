@@ -1,0 +1,33 @@
+Project Title: Tech Workplace Mental Health Analysis
+
+Project Description:
+Create a comprehensive analysis of mental health trends and attitudes in the tech workplace using the provided dataset. The analysis should cover insights into the frequency of mental health disorders, changes in attitudes towards mental health over the years, and the distribution of answers to various survey questions.
+
+Project Tasks:
+
+Data Exploration:
+
+Explore the Survey, Question, and Answer tables to understand the structure and relationships between them.
+Examine the unique surveys (years) available in the dataset and their descriptions.
+Investigate the questions asked in each survey and their corresponding question text.
+
+Data Analysis:
+
+Calculate the number of participants for each survey year to understand the sample size.
+Analyze the distribution of answers for specific questions across different survey years to identify any trends or changes over time.
+Identify the most common mental health disorders reported by participants in each survey year.
+
+Visualization:
+
+Create visualizations to represent the distribution of answers for selected questions over the years.
+Visualize the distribution of participants' responses to specific questions.
+Present the analysis findings using visually appealing charts and graphs to make it easy for stakeholders to understand the insights.
+
+SQL Queries:
+
+Implement the common SQL queries provided in the dataset description to retrieve specific information from the database, such as question text, all answers for a specified question, distribution of answers for a given question, and the number of participants for each survey.
+
+Expected Outcome:
+A comprehensive analysis report and presentation showcasing your SQL skills in data exploration, analysis, visualization, and presentation. The project will demonstrate your ability to derive meaningful insights from complex datasets and communicate them effectively to stakeholders.
+
+By working on this project, you'll cover a range of important SQL concepts, including data querying, aggregation, joining tables, data manipulation, and data visualization. Additionally, you'll gain valuable experience in analyzing real-world survey data and presenting actionable insights, which can be highly beneficial for your job interview.
