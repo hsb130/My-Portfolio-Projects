@@ -1,0 +1,52 @@
+About Dataset
+Best quot ever :
+Don't ever tell anybody anything, if you do, you start missing everybody
+J.D. Salinger
+
+Story
+Every one of us knows the Goodreads, and every book lovers when want to buy a book, firstly search the title of the book on this website and read all of that reviews and ratings are available there for that book.
+
+
+These datasets are very good for two jobs :
+
+1 . Creating book recommendation system based on 10 M books 🥇
+2 . Using the Description columns for NLP 🥈
+
+
+Content
+Approximately 10,000,000 books are available on the site's archives, and these datasets are collecting from them. for requesting on the API, we used Goodreads python library.
+
+Acknowledgements
+This data was entirely scrapped from the Goodreads API.
+
+
+Book Sample
+JSON :
+
+ {
+    "Id": "5107",
+    "Name": "The Catcher in the Rye",
+    "RatingDist1": "1:133165",
+    "RatingDist2": "2:224884",
+    "RatingDist3": "3:553476",
+    "RatingDist4": "4:808278",
+    "RatingDist5": "5:891037",
+    "pagesNumber": 277,
+    "RatingDistTotal": "total:2610840",
+    "PublishMonth": 30,
+    "PublishDay": 1,
+    "Publisher": "Back Bay Books",
+    "CountsOfReview": 44046,
+    "PublishYear": 2001,
+    "Language": "eng",
+    "Authors": "J.D. Salinger",
+    "Rating": 3.8,
+    "ISBN": "0316769177",
+   "Count of text reviews": 55539,
+    "Description": "The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through 
+    circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for 
+    three days. "
+ }
+Or CSV :
+
+5107,The Catcher in the Rye,1:133165,277,4:808278,total:2610840,30,1,Back Bay Books,44046,2001,eng,J.D. Salinger,3.8,2:224884,5:891037,0316769177,3:553476,55539,"The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. "
